@@ -1,0 +1,38 @@
+:root {
+  --primary: #2F2E41;
+  --secondary: #00BFA6;
+  --tertiary: #C2C2C2;
+  --quaternary: #FFFFFF;
+}
+
+.text-primary {
+  color: var(--primary);
+}
+
+.text-secondary {
+  color: var(--secondary);
+}
+
+.text-tertiary {
+  color: var(--tertiary);
+}
+
+.text-quaternary {
+  color: var(--quaternary);
+}
+
+.bg-primary {
+  background-color: var(--primary);
+}
+
+.bg-secondary {
+  background-color: var(--secondary);
+}
+
+.bg-tertiary {
+  background-color: var(--tertiary);
+}
+
+.bg-quaternary {
+  background-color: var(--quaternary);
+}
